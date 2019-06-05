@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://aceluby.github.io/resume",
+  "homepage": "https://aceluby.github.io",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
