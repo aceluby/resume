@@ -78,7 +78,8 @@ export default class Resume extends Component {
                     return (
                       <li>
                         <span
-                          className={`bar-expand`} style={{width: item.skillProficiency}}
+                          className={`bar-expand`}
+                          style={{ width: item.skillProficiency }}
                         />
                         <em>{item.skillname}</em>
                       </li>
