@@ -81,6 +81,11 @@ let resumeData = {
             "imgurl":"images/portfolio/IAN.png"
         },
         {
+            "name":"Integrated Asset Network",
+            "description":"ReactJs App",
+            "imgurl":"images/portfolio/IAN-2.png"
+        },
+        {
             "name":"Luby Studios",
             "description":"ReactJs App",
             "imgurl":"images/portfolio/luby-studios.png"
@@ -93,7 +98,12 @@ let resumeData = {
         {
             "name":"Talent On Tap",
             "description":"ReactJs App",
-            "imgurl":"images/portfolio/IAN.png"
+            "imgurl":"images/portfolio/talent-on-tap-1.png"
+        },
+        {
+            "name":"Talent On Tap",
+            "description":"ReactJs App",
+            "imgurl":"images/portfolio/talent-on-tap-2.png"
         }
     ],
     "testimonials":[

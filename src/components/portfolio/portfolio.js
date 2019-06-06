@@ -9,7 +9,7 @@ export default class Porfolio extends Component {
             <h1>Front End Portfolio</h1>
             <div
               id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
+              className="bgrid-sixths s-bgrid-thirds cf"
             >
               {resumeData.portfolio &&
                 resumeData.portfolio.map(item => {
@@ -17,7 +17,7 @@ export default class Porfolio extends Component {
                     <div className="columns portfolio-item">
                       <div className="item-wrap">
                         <a href="#modal-01" data-mfp-src={`./${item.imgurl}`}>
-                          <img src={`${item.imgurl}`} className="item-img" />
+                          <img src={`${item.imgurl}`} className="item-img" alt=""/>
                           <div className="overlay">
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>

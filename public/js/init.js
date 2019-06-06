@@ -104,7 +104,7 @@ jQuery(document).ready(function($) {
     fixedContentPos: false,
     removalDelay: 200,
     showCloseBtn: false,
-    mainClass: "mfp-fade"
+    mainClass: "mfp-fade",
   });
 
   $(document).on("click", ".popup-modal-dismiss", function(e) {
